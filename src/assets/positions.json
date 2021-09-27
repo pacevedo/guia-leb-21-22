@@ -1,0 +1,11 @@
+[
+  {"name": "Base", "abr": "B"},
+  {"name": "Base / Escolta", "abr": "B/E"},
+  {"name": "Escolta", "abr": "E"},
+  {"name": "Escolta / Alero", "abr": "E/A"},
+  {"name": "Alero", "abr": "A"},
+  {"name": "Alero / Ala Pívot", "abr": "A/A-P"},
+  {"name": "Ala Pívot", "abr": "A-P"},
+  {"name": "Ala Pívot / Pívot", "abr": "A-P/P"},
+  {"name": "Pívot", "abr": "P"}
+]
