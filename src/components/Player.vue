@@ -70,12 +70,12 @@
                           <th class="td-description"></th>
                           <th class="td-matches">Part.</th>
                           <th class="td-minutes">Min.</th>
-                          <th class="td-stat">Ptos</th>
-                          <th class="td-stat">Rebs</th>
-                          <th class="td-stat">Asis</th>
-                          <th class="td-stat">Robos</th>
-                          <th class="td-stat">Perd</th>
-                          <th class="td-stat">Taps</th>
+                          <th class="td-stat-small">Ptos</th>
+                          <th class="td-stat-small">Rebs</th>
+                          <th class="td-stat-small">Asis</th>
+                          <th class="td-stat-small">Robos</th>
+                          <th class="td-stat-small">Perd</th>
+                          <th class="td-stat-small">Taps</th>
                         </tr>
                       </thead>
                       <tbody>
@@ -83,34 +83,34 @@
                           <td class="td-description"><label>Totales</label></td>
                           <td class="td-matches">{{ lastSeason.matches }}</td>
                           <td class="td-minutes">{{ getMinutes(lastSeason.mins) }}</td>
-                          <td class="td-stat">{{ lastSeason.points }}</td>
-                          <td class="td-stat">{{ lastSeason.rebounds }}</td>
-                          <td class="td-stat">{{ lastSeason.assists }}</td>
-                          <td class="td-stat">{{ lastSeason.steals }}</td>
-                          <td class="td-stat">{{ lastSeason.turnovers }}</td>
-                          <td class="td-stat">{{ lastSeason.blocks }}</td>
+                          <td class="td-stat-small">{{ lastSeason.points }}</td>
+                          <td class="td-stat-small">{{ lastSeason.rebounds }}</td>
+                          <td class="td-stat-small">{{ lastSeason.assists }}</td>
+                          <td class="td-stat-small">{{ lastSeason.steals }}</td>
+                          <td class="td-stat-small">{{ lastSeason.turnovers }}</td>
+                          <td class="td-stat-small">{{ lastSeason.blocks }}</td>
                         </tr>
                         <tr>
                           <td class="td-description"><label>Por partido</label></td>
                           <td class="td-matches"></td>
                           <td class="td-minutes">{{ getMinutesPerGame(lastSeason.mins, lastSeason.matches) }}</td>
-                          <td class="td-stat">{{ getPerGame(lastSeason.points, lastSeason.matches) }}</td>
-                          <td class="td-stat">{{ getPerGame(lastSeason.rebounds, lastSeason.matches) }}</td>
-                          <td class="td-stat">{{ getPerGame(lastSeason.assists, lastSeason.matches) }}</td>
-                          <td class="td-stat">{{ getPerGame(lastSeason.steals, lastSeason.matches) }}</td>
-                          <td class="td-stat">{{ getPerGame(lastSeason.turnovers, lastSeason.matches) }}</td>
-                          <td class="td-stat">{{ getPerGame(lastSeason.blocks, lastSeason.matches) }}</td>
+                          <td class="td-stat-small">{{ getPerGame(lastSeason.points, lastSeason.matches) }}</td>
+                          <td class="td-stat-small">{{ getPerGame(lastSeason.rebounds, lastSeason.matches) }}</td>
+                          <td class="td-stat-small">{{ getPerGame(lastSeason.assists, lastSeason.matches) }}</td>
+                          <td class="td-stat-small">{{ getPerGame(lastSeason.steals, lastSeason.matches) }}</td>
+                          <td class="td-stat-small">{{ getPerGame(lastSeason.turnovers, lastSeason.matches) }}</td>
+                          <td class="td-stat-small">{{ getPerGame(lastSeason.blocks, lastSeason.matches) }}</td>
                         </tr>
                         <tr>
                           <td class="td-description"><label>Por 40 min.</label></td>
                           <td class="td-matches"></td>
                           <td class="td-minutes"></td>
-                          <td class="td-stat">{{ getPerMins(lastSeason.points, lastSeason.mins) }}</td>
-                          <td class="td-stat">{{ getPerMins(lastSeason.rebounds, lastSeason.mins) }}</td>
-                          <td class="td-stat">{{ getPerMins(lastSeason.assists, lastSeason.mins) }}</td>
-                          <td class="td-stat">{{ getPerMins(lastSeason.steals, lastSeason.mins) }}</td>
-                          <td class="td-stat">{{ getPerMins(lastSeason.turnovers, lastSeason.mins) }}</td>
-                          <td class="td-stat">{{ getPerMins(lastSeason.blocks, lastSeason.mins) }}</td>
+                          <td class="td-stat-small">{{ getPerMins(lastSeason.points, lastSeason.mins) }}</td>
+                          <td class="td-stat-small">{{ getPerMins(lastSeason.rebounds, lastSeason.mins) }}</td>
+                          <td class="td-stat-small">{{ getPerMins(lastSeason.assists, lastSeason.mins) }}</td>
+                          <td class="td-stat-small">{{ getPerMins(lastSeason.steals, lastSeason.mins) }}</td>
+                          <td class="td-stat-small">{{ getPerMins(lastSeason.turnovers, lastSeason.mins) }}</td>
+                          <td class="td-stat-small">{{ getPerMins(lastSeason.blocks, lastSeason.mins) }}</td>
                         </tr>
                       </tbody>
                     </template>
