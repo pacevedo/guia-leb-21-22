@@ -28,6 +28,7 @@ export default {
 <style lang="scss">
   .home {
     min-height: 720px;
+    margin-top: 60px;
   }
   .container {
     display: flex;
