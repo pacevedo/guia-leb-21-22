@@ -15,7 +15,7 @@
   {"id":"12", "name":"Felipe Dos Anjos", "position": "P", "bornDate":"30/04/1998", "height": 2.18, "nationality": "BRA/ESP", "lastSeason": {"team": "Bilbao", "category": "ACB", "country": "ESP",  "matches": 29, "mins": "04:21:00", "points": 68, "rebounds": 80, "assists": 8, "steals": 11, "turnovers": 27, "blocks": 14, "2PM": 30, "2PA": 57, "3PM": 0, "3PA": 0, "FTM": 8, "FTA": 11}, "url": "https://www.acb.com/jugador/temporada-a-temporada/id/20210122"}
   ]},
   
-  {"team":"Acunsa GBC", "logo": "GBC.png", "id": "2","category": "oro",
+  {"team":"Acunsa Gipuzkoa", "logo": "GBC.png", "id": "2","category": "oro",
   "coach": {"name": "Lolo Encinas", "bornDate": "21/02/1974", "nationality": "ESP", "lastSeason": {"team": "Bilbao (ayudante)", "category": "ACB", "country": "ESP"}}, "players":[
   {"id":"20", "name":"Aitor Zubizarreta", "position": "B", "bornDate":"06/03/1995", "height": 1.9, "nationality": "ESP", "lastSeason": {"team": "Palencia", "category": "LEB Oro", "country": "ESP",  "matches": 25, "mins": "07:56:51", "points": 141, "rebounds": 25, "assists": 55, "steals": 13, "turnovers": 23, "blocks": 3, "2PM": 28, "2PA": 60, "3PM": 21, "3PA": 55, "FTM": 22, "FTA": 28}, "url": "https://baloncestoenvivo.feb.es/jugador/848749/1749125"},
   {"id":"21", "name":"Aegir Steinarsson", "position": "B", "bornDate":"10/05/1991", "height": 1.85, "nationality": "ISL", "lastSeason": {"team": "Stjarnan", "category": "Express League", "country": "ISL",  "matches": 32, "mins": "17:07:00", "points": 568, "rebounds": 171, "assists": 262, "steals": 48, "turnovers": 99, "blocks": 1, "2PM": 153, "2PA": 282, "3PM": 56, "3PA": 185, "FTM": 94, "FTA": 115}, "url": "https://basketball.eurobasket.com/player/Aegir-Steinarsson/Spain/Penas-Huesca/152076?PlayerID=152076"},
@@ -92,7 +92,7 @@
   {"id":"110", "name":"Jorge Bilbao", "position": "P", "bornDate":"27/06/1995", "height": 2.05, "nationality": "ESP", "lastSeason": {"team": "Alicante", "category": "LEB Oro", "country": "ESP",  "matches": 35, "mins": "10:55:34", "points": 228, "rebounds": 159, "assists": 28, "steals": 22, "turnovers": 45, "blocks": 4, "2PM": 75, "2PA": 127, "3PM": 0, "3PA": 4, "FTM": 78, "FTA": 118}, "url": "https://baloncestoenvivo.feb.es/jugador/848709/1680859"}
   ]},
   
-  {"team":"Unicaja Oviedo", "logo": "Oviedo.png", "id": "7","category": "oro",
+  {"team":"Unicaja Banco Oviedo", "logo": "Oviedo.png", "id": "7","category": "oro",
     "coach": {"name": "Natxo Lezkano", "bornDate": "17/10/1972", "nationality": "ESP", "lastSeason": {"team": "Oviedo", "category": "LEB Oro", "country": "ESP"}}, "players":[
     {"id":"120", "name":"Harald Frey", "position": "B", "bornDate":"27/05/1997", "height": 1.88, "nationality": "NOR", "lastSeason": {"team": "Oviedo", "category": "LEB Oro", "country": "ESP",  "matches": 25, "mins": "08:01:08", "points": 165, "rebounds": 35, "assists": 49, "steals": 21, "turnovers": 30, "blocks": 1, "2PM": 25, "2PA": 59, "3PM": 29, "3PA": 93, "FTM": 28, "FTA": 37}, "url": "https://baloncestoenvivo.feb.es/jugador/848724/2433190"},
     {"id":"121", "name":"Alonso Meana", "position": "B", "bornDate":"20/03/2000", "height": 1.8, "nationality": "ESP", "lastSeason": {"team": "Oviedo", "category": "LEB Oro", "country": "ESP",  "matches": 12, "mins": "03:04:47", "points": 65, "rebounds": 13, "assists": 17, "steals": 3, "turnovers": 10, "blocks": 0, "2PM": 7, "2PA": 19, "3PM": 14, "3PA": 27, "FTM": 9, "FTA": 11}, "url": "https://baloncestoenvivo.feb.es/jugador/848724/1560358"},
@@ -124,7 +124,7 @@
   ]},
     
   
-  {"team":"Real Valladolid Baloncesto", "logo": "Valladolid.jpg", "id": "9","category": "oro",
+  {"team":"UEMC Real Valladolid Baloncesto", "logo": "Valladolid.jpg", "id": "9","category": "oro",
   "coach": {"name": "Roberto González", "bornDate": "27/01/1968", "nationality": "ESP", "lastSeason": {"team": "La Flecha", "category": "EBA", "country": "ESP"}}, "players":[
   {"id":"160", "name":"Melwin Pantzar", "position": "B", "bornDate":"10/04/2000", "height": 1.9, "nationality": "SUE", "lastSeason": {"team": "Valladolid", "category": "LEB Oro", "country": "ESP",  "matches": 26, "mins": "09:48:25", "points": 190, "rebounds": 82, "assists": 63, "steals": 23, "turnovers": 28, "blocks": 4, "2PM": 41, "2PA": 81, "3PM": 20, "3PA": 58, "FTM": 48, "FTA": 69}, "url": "https://baloncestoenvivo.feb.es/jugador/848979/2218172"},
   {"id":"161", "name":"Alex Wintering", "position": "B", "bornDate":"26/04/1995", "height": 1.83, "nationality": "USA", "lastSeason": {"team": "Melilla", "category": "LEB Oro", "country": "ESP",  "matches": 25, "mins": "09:29:10", "points": 301, "rebounds": 64, "assists": 82, "steals": 21, "turnovers": 49, "blocks": 0, "2PM": 92, "2PA": 201, "3PM": 17, "3PA": 46, "FTM": 66, "FTA": 87}, "url": "https://baloncestoenvivo.feb.es/jugador/848705/2276415"},
@@ -186,7 +186,7 @@
   ]},
     
   
-  {"team":"Levitec Huesca", "logo": "Huesca.jpg", "id": "13","category": "oro",
+  {"team":"Levitec Huesca La Magia", "logo": "Huesca.jpg", "id": "13","category": "oro",
   "coach": {"name": "Sergio Lamúa", "bornDate": "06/09/1976", "nationality": "ESP", "lastSeason": {"team": "Zaragoza", "category": "ACB", "country": "ESP"}}, "players":[
   {"id":"240", "name":"Ayoze Alonso", "position": "B", "bornDate":"04/04/1991", "height": 1.87, "nationality": "ESP", "lastSeason": {"team": "Tizona", "category": "LEB Oro", "country": "ESP",  "matches": 25, "mins": "10:11:09", "points": 295, "rebounds": 55, "assists": 79, "steals": 31, "turnovers": 41, "blocks": 0, "2PM": 82, "2PA": 144, "3PM": 17, "3PA": 67, "FTM": 80, "FTA": 99}, "url": "https://baloncestoenvivo.feb.es/jugador/848337/2325671"},
   {"id":"241", "name":"Devon Van Oostrum", "position": "B", "bornDate":"24/01/1993", "height": 1.93, "nationality": "HOL/GBR", "lastSeason": {"team": "Huesca", "category": "LEB Oro", "country": "ESP",  "matches": 4, "mins": "01:45:10", "points": 43, "rebounds": 9, "assists": 3, "steals": 2, "turnovers": 12, "blocks": 0, "2PM": 5, "2PA": 13, "3PM": 9, "3PA": 22, "FTM": 6, "FTA": 10}, "url": "https://baloncestoenvivo.feb.es/jugador/848764/1752602"},
@@ -279,7 +279,7 @@
     {"id":"352", "name":"Kriss Helmanis", "position": "P", "bornDate":"07/04/2002", "height": 2.05, "nationality": "LET", "lastSeason": {"team": "Prat", "category": "LEB Plata", "country": "ESP",  "matches": 31, "mins": "10:39:35", "points": 268, "rebounds": 165, "assists": 39, "steals": 26, "turnovers": 38, "blocks": 14, "2PM": 79, "2PA": 154, "3PM": 24, "3PA": 60, "FTM": 38, "FTA": 48}, "url": "https://baloncestoenvivo.feb.es/jugador/848470/2344692"}
   ]},
       
-  {"team":"Club Ourense Baloncesto", "category": "plata", "conference": "Oeste", "logo": "Ourense.png", "id": "1",
+  {"team":"Hereda Club Ourense Baloncesto", "category": "plata", "conference": "Oeste", "logo": "Ourense.png", "id": "1",
     "coach": {"name": "Armando Gómez", "bornDate":"16/08/1984", "nationality": "ESP", "lastSeason": {"team": "Cáceres", "category": "EBA", "country": "ESP"}}, "players":[
     {"id":"1", "name":"Javi Marín", "position": "B", "bornDate":"21/12/1992", "height": 1.93, "nationality": "ESP", "lastSeason": {"team": "Melilla", "category": "LEB Oro", "country": "ESP",  "matches": 26, "mins": "07:59:05", "points": 144, "rebounds": 62, "assists": 86, "steals": 18, "turnovers": 33, "blocks": 0, "2PM": 45, "2PA": 83, "3PM": 11, "3PA": 39, "FTM": 21, "FTA": 31}, "url": "https://baloncestoenvivo.feb.es/jugador/848705/1356913"},
     {"id":"3", "name":"Edgars Lasenbergs", "position": "B/E", "bornDate":"07/04/1995", "height": 1.91, "nationality": "LET", "lastSeason": {"team": "Ventspils", "category": "ELBL", "country": "LET",  "matches": 21, "mins": "07:04:18", "points": 113, "rebounds": 39, "assists": 34, "steals": 14, "turnovers": 40, "blocks": 2, "2PM": 20, "2PA": 42, "3PM": 14, "3PA": 59, "FTM": 31, "FTA": 43}, "url": "https://basketball.realgm.com/player/Edgars-Lasenbergs/Summary/43733"},
@@ -308,7 +308,7 @@
   {"id":"31", "name":"Coreontae De Berry", "position": "P", "bornDate":"02/09/1994", "height": 2.06, "nationality": "USA", "lastSeason": {"team": "Vitoria Guimaraes", "category": "LPB", "country": "POR",  "matches": 30, "mins": "08:51:54", "points": 293, "rebounds": 103, "assists": 40, "steals": 20, "turnovers": 42, "blocks": 23, "2PM": 120, "2PA": 182, "3PM": 0, "3PA": 1, "FTM": 53, "FTA": 66}, "url": "https://basketball.realgm.com/player/Coreontae-DeBerry/Summary/79988"}
   ]},
   
-  {"team":"Grupo Alega Cantabria", "category": "plata", "conference": "Oeste", "logo": "Cantabria.jpg", "id": "3",
+  {"team":"Grupo Alega Cantabria CBT", "category": "plata", "conference": "Oeste", "logo": "Cantabria.jpg", "id": "3",
     "coach": {"name": "David Mangas", "bornDate":"07/09/1978", "nationality": "ESP", "lastSeason": {"team": "Cantabria", "category": "LEB Plata", "country": "ESP"}}, "players":[
     {"id":"40", "name":"Giovanny Contreras", "position": "B", "bornDate":"12/03/2000", "height": 1.81, "nationality": "ESP/COL", "lastSeason": {"team": "Cantabria", "category": "LEB Plata", "country": "ESP",  "matches": 32, "mins": "07:13:21", "points": 89, "rebounds": 42, "assists": 47, "steals": 21, "turnovers": 41, "blocks": 0, "2PM": 21, "2PA": 49, "3PM": 11, "3PA": 33, "FTM": 14, "FTA": 27}, "url": "https://baloncestoenvivo.feb.es/jugador/848753/1596006"},
     {"id":"41", "name":"Iñigo Betolaza", "position": "B", "bornDate":"03/08/2000", "height": 1.82, "nationality": "ESP", "lastSeason": {"team": "Bilbao", "category": "ACB", "country": "ESP",  "matches": 3, "mins": "00:17:00", "points": 0, "rebounds": 1, "assists": 2, "steals": 1, "turnovers": 2, "blocks": 0, "2PM": 0, "2PA": 0, "3PM": 0, "3PA": 1, "FTM": 0, "FTA": 0}, "url": "https://www.acb.com/jugador/temporada-a-temporada/id/20210363"},
@@ -369,8 +369,6 @@
     {"id":"109", "name":"Devin Wright", "position": "A-P/P", "bornDate":"05/10/1986", "height": 2.01, "nationality": "ESP", "lastSeason": {"team": "Marbella", "category": "LEB Plata", "country": "ESP",  "matches": 30, "mins": "12:07:45", "points": 313, "rebounds": 180, "assists": 30, "steals": 16, "turnovers": 51, "blocks": 9, "2PM": 137, "2PA": 280, "3PM": 1, "3PA": 2, "FTM": 36, "FTA": 78}, "url": "https://baloncestoenvivo.feb.es/jugador/848784/1169951"},
     {"id":"111", "name":"Adrián Latorre", "position": "P", "bornDate":"20/08/2001", "height": 2.03, "nationality": "ESP", "lastSeason": {"team": "Estepona", "category": "EBA", "country": "ESP",  "matches": 20, "mins": "05:21:57", "points": 113, "rebounds": 103, "assists": 8, "steals": 10, "turnovers": 29, "blocks": 7, "2PM": 49, "2PA": 102, "3PM": 0, "3PA": 0, "FTM": 15, "FTA": 32}, "url": "https://baloncestoenvivo.feb.es/jugador/848809/1791266"}
   ]},
-    
-    
   
   {"team":"Reina Yogur Clavijo CB", "category": "plata", "conference": "Oeste", "logo": "Clavijo.jpg", "id": "7",
     "coach": {"name": "Jenaro Díaz", "bornDate":"03/04/1971", "nationality": "ESP", "lastSeason": {"team": "Clavijo", "category": "LEB Plata", "country": "ESP"}}, "players":[
@@ -417,7 +415,7 @@
   {"id":"171", "name":"Lamine Badji", "position": "P", "bornDate":"22/11/1996", "height": 2.1, "nationality": "SEN", "lastSeason": {"team": "AS Douanes", "category": "Nationale 1", "country": "SEN"}, "url": ""}
   ]},
   
-  {"team":"CB Zamora Enamora", "category": "plata", "conference": "Oeste", "logo": "Zamora.jpg", "id": "10",
+  {"team":"Zamora Enamora", "category": "plata", "conference": "Oeste", "logo": "Zamora.jpg", "id": "10",
     "coach": {"name": "Saulo Hernández", "bornDate":"18/12/1978", "nationality": "ESP", "lastSeason": {"team": "Zamora", "category": "LEB Plata", "country": "ESP"}}, "players":[
     {"id":"180", "name":"Malik Maitland", "position": "B", "bornDate":"01/01/1997", "height": 1.75, "nationality": "USA", "lastSeason": {"team": "Sin equipo"}, "url": "https://basketball.realgm.com/player/Malik-Maitland/Summary/84119"},
     {"id":"181", "name":"Jacob Round", "position": "B", "bornDate":"03/04/2000", "height": 1.92, "nationality": "GBR", "lastSeason": {"team": "Huesca", "category": "LEB Oro", "country": "ESP",  "matches": 25, "mins": "05:35:23", "points": 67, "rebounds": 24, "assists": 23, "steals": 6, "turnovers": 20, "blocks": 2, "2PM": 12, "2PA": 20, "3PM": 12, "3PA": 43, "FTM": 7, "FTA": 8}, "url": "https://baloncestoenvivo.feb.es/jugador/848764/2335424"},
@@ -462,7 +460,7 @@
   {"id":"231", "name":"Munachiso Okonkwo", "position": "P", "bornDate":"03/03/1994", "height": 2.06, "nationality": "NIG", "lastSeason": {"team": "UMEA", "category": "Basketligan", "country": "SUE",  "matches": 6, "mins": "01:43:12", "points": 42, "rebounds": 34, "assists": 6, "steals": 34, "turnovers": 5, "blocks": 8, "2PM": 18, "2PA": 32, "3PM": 0, "3PA": 0, "FTM": 6, "FTA": 10}, "url": "https://basketball.realgm.com/player/Munachiso-Okonkwo/Summary/110465"}
   ]},
   
-  {"team":"Aquimisa Carbajosa", "category": "plata", "conference": "Oeste", "logo": "Carbajosa.jpg", "id": "13",
+  {"team":"Aquimisa Carbajosa Empresarial", "category": "plata", "conference": "Oeste", "logo": "Carbajosa.jpg", "id": "13",
   "coach": {"name": "Sergio Vicente", "bornDate":"03/05/1982", "nationality": "ESP", "lastSeason": {"team": "Carbajosa", "category": "LEB Plata", "country": "ESP"}}, "players":[
   {"id":"240", "name":"Carlos Hidalgo", "position": "B", "bornDate":"26/03/1997", "height": 1.82, "nationality": "ESP", "lastSeason": {"team": "Carbajosa", "category": "LEB Plata", "country": "ESP",  "matches": 22, "mins": "07:51:49", "points": 147, "rebounds": 62, "assists": 27, "steals": 30, "turnovers": 41, "blocks": 1, "2PM": 28, "2PA": 63, "3PM": 17, "3PA": 54, "FTM": 40, "FTA": 54}, "url": "https://baloncestoenvivo.feb.es/jugador/848644/1538325"},
   {"id":"241", "name":"Josep Peris", "position": "B", "bornDate":"06/08/2000", "height": 1.92, "nationality": "ESP", "lastSeason": {"team": "Villarrobledo", "category": "LEB Plata", "country": "ESP",  "matches": 22, "mins": "05:17:47", "points": 105, "rebounds": 19, "assists": 34, "steals": 12, "turnovers": 29, "blocks": 1, "2PM": 23, "2PA": 50, "3PM": 11, "3PA": 50, "FTM": 26, "FTA": 32}, "url": "https://baloncestoenvivo.feb.es/jugador/848768/1702420"},
@@ -537,7 +535,7 @@
   ]},
     
   
-  {"team":"Albacete Basket", "category": "plata", "conference": "Este", "logo": "Albacete.jpg", "id": "18",
+  {"team":"Bueno Arenas Albacete Basket", "category": "plata", "conference": "Este", "logo": "Albacete.jpg", "id": "18",
   "coach": {"name": "David Varela", "bornDate":"11/09/1973", "nationality": "ESP", "lastSeason": {"team": "Albacete", "category": "LEB Plata", "country": "ESP"}}, "players":[
   {"id":"340", "name":"Gerard Blat", "position": "B", "bornDate":"14/04/1997", "height": 1.85, "nationality": "ESP", "lastSeason": {"team": "Sin equipo"}, "url": "https://baloncestoenvivo.feb.es/jugador/816750/1394852"},
   {"id":"341", "name":"Jorge Mejías", "position": "B", "bornDate":"19/01/2001", "height": 1.9, "nationality": "ESP", "lastSeason": {"team": "Albacete", "category": "LEB Plata", "country": "ESP",  "matches": 28, "mins": "08:55:14", "points": 226, "rebounds": 61, "assists": 54, "steals": 32, "turnovers": 48, "blocks": 2, "2PM": 46, "2PA": 107, "3PM": 33, "3PA": 100, "FTM": 35, "FTA": 45}, "url": "https://baloncestoenvivo.feb.es/jugador/848762/1755502"},
@@ -550,7 +548,7 @@
   {"id":"350", "name":"Oliver Bieshaar", "position": "P", "bornDate":"29/11/2001", "height": 2.02, "nationality": "HOL", "lastSeason": {"team": "Albacete", "category": "LEB Plata", "country": "ESP",  "matches": 10, "mins": "03:41:42", "points": 52, "rebounds": 45, "assists": 8, "steals": 1, "turnovers": 9, "blocks": 2, "2PM": 11, "2PA": 20, "3PM": 8, "3PA": 32, "FTM": 6, "FTA": 12}, "url": "https://baloncestoenvivo.feb.es/jugador/848762/2273469"}
   ]},
   
-  {"team":"Fundación Globalcaja La Roda", "category": "plata", "conference": "Este", "logo": "La Roda.jpg", "id": "19",
+  {"team":"Decolor Fundación Globalcaja La Roda", "category": "plata", "conference": "Este", "logo": "La Roda.jpg", "id": "19",
   "coach": {"name": "Tito Moya", "bornDate":"11/10/1990", "nationality": "ESP", "lastSeason": {"team": "La Roda", "category": "LEB Plata", "country": "ESP"}}, "players":[
   {"id":"360", "name":"Héctor Jiménez", "position": "B", "bornDate":"30/12/1994", "height": 1.83, "nationality": "ESP", "lastSeason": {"team": "Alcobendas", "category": "LEB Plata", "country": "ESP",  "matches": 8, "mins": "02:36:10", "points": 35, "rebounds": 4, "assists": 20, "steals": 8, "turnovers": 16, "blocks": 0, "2PM": 4, "2PA": 11, "3PM": 9, "3PA": 29, "FTM": 0, "FTA": 0}, "url": "https://baloncestoenvivo.feb.es/jugador/848636/1510978"},
   {"id":"361", "name":"Ismael Corraliza", "position": "B", "bornDate":"28/02/2000", "height": 1.94, "nationality": "ESP", "lastSeason": {"team": "UCAM Murcia", "category": "EBA", "country": "ESP",  "matches": 23, "mins": "11:50:26", "points": 300, "rebounds": 94, "assists": 70, "steals": 35, "turnovers": 68, "blocks": 7, "2PM": 66, "2PA": 164, "3PM": 40, "3PA": 131, "FTM": 48, "FTA": 73}, "url": "https://baloncestoenvivo.feb.es/jugador/848578/1759956"},
@@ -685,7 +683,6 @@
     {"id":"530", "name":"José Coego", "position": "P", "bornDate":"18/12/1978", "height": 2.05, "nationality": "ESP", "lastSeason": {"team": "Escola Sant Gervasi", "category": "Nacional", "country": "ESP"}, "url": "https://baloncestoenvivo.feb.es/jugador/733222/201012"},
     {"id":"531", "name":"Ángel Soto", "position": "P", "bornDate":"01/03/1990", "height": 2.05, "nationality": "ESP", "lastSeason": {"team": "Mollet", "category": "EBA", "country": "ESP",  "matches": 17, "mins": "06:50:16", "points": 129, "rebounds": 121, "assists": 30, "steals": 27, "turnovers": 29, "blocks": 8, "2PM": 49, "2PA": 88, "3PM": 2, "3PA": 7, "FTM": 25, "FTA": 39}, "url": "https://baloncestoenvivo.feb.es/jugador/848464/1469117"}
   ]},
-    
   
   {"team":"Sant Antoni Ibiza Feeling", "category": "plata", "conference": "Este", "logo": "Sant Antoni.jpg", "id": "28",
   "coach": {"name": "Carlos Flores",  "nationality": "ESP", "lastSeason": {"team": "Sant Antoni", "category": "EBA", "country": "ESP"}}, "players":[
